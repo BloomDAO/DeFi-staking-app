@@ -1,6 +1,6 @@
 # Defi Staking App
 
-Stake inBloom tokens(IBL) to get BloomDAO governance tokens(GBL). 
+Stake inBloom tokens(IBL) to get BloomDAO governance tokens(GBL). Built on Solidity, will be repurposed on a more energy efficient blockchain.
 
 **Please ensure you have downloaded the following additionally **
 
