@@ -1,5 +1,6 @@
 # Defi Staking App
 
+Stake inBloom tokens(IBL) to get BloomDAO governance tokens(GBL). 
 
 **Please ensure you have downloaded the following additionally **
 
